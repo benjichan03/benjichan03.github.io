@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://x.pac-12.com/sites/default/files/styles/homepage_featured/public/BallThruHoop2016_01_1.JPG?itok=Yg439KTn');    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    width:100vw;
+    height:100%;
+
+}
+
+
+.pink_heading{
+    color:hotpink;
+}
+
+#heading{
+    color:green;
+    font-size: 3em;
+}
+
+#image{
+    width: 50vw;
+}
+
+#first_paragraph{
+    font-size: 1em;
+}
+
+#small_heading{
+    color: royalblue;
+}
+
+#navbar{
+    width:100vw;
+    background:red
+}
+
+#navbar a{
+    text-decoration: none;
+}
