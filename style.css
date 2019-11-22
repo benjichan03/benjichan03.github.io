@@ -1,10 +1,11 @@
 body{
-    background-image: url('https://x.pac-12.com/sites/default/files/styles/homepage_featured/public/BallThruHoop2016_01_1.JPG?itok=Yg439KTn');    
+    background-image: url('https://camo.githubusercontent.com/5a06cd83cbc77da567559008fb9ade8e909c0fad/68747470733a2f2f7777772e7075626c6963646f6d61696e70696374757265732e6e65742f70696374757265732f33303030302f76656c6b612f73756e7365742d31352e6a7067');    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
-    width:100vw;
+    widows:100vw;
+    width:100%;
     height:100%;
 
 }
@@ -32,10 +33,12 @@ body{
 }
 
 #navbar{
-    width:100vw;
-    background:red
+    widows: 100vw;
+    background: orange
 }
 
 #navbar a{
-    text-decoration: none;
+    text-decoration: none;      
+    font-size: 3em;
 }
+
