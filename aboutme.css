@@ -10,3 +10,19 @@ body{
 
 }
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.who {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+#text {
+    text-align: center;
+}
