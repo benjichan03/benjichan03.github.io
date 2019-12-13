@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://camo.githubusercontent.com/5a06cd83cbc77da567559008fb9ade8e909c0fad/68747470733a2f2f7777772e7075626c6963646f6d61696e70696374757265732e6e65742f70696374757265732f33303030302f76656c6b612f73756e7365742d31352e6a7067');    
+    background-image: url('https://cdn.shopify.com/s/files/1/1003/7610/products/Basketball_court_on_top_Wall_Mural_Wallpaper_a.jpg?v=1525901159');    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,11 +12,11 @@ body{
 
 
 .pink_heading{
-    color:hotpink;
+    color:black;
 }
 
 #heading{
-    color:green;
+    color:white
     font-size: 3em;
 }
 
